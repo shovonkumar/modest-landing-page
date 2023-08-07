@@ -26,9 +26,8 @@ new Swiper(".banner__slider", {
   },
 });
 
-//
-//======= Glightboc =======
-//
+//======= Glightbox =======
+
 const glightbox = GLightbox({
   selector: ".glightbox",
 });
